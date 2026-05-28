@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=A%C3%A7os+Vital&fontSize=62&fontColor=cdd6f4&fontAlignY=38&desc=Equipe+de+Engenharia+%26+TI&descSize=20&descColor=a8b2d8&descAlignY=58&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&descAlignY=58&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ A **Aços Vital** é referência na fabricação de **flanges, tubos, curvas e g
 
 Nossa equipe de TI desenvolve e sustenta a infraestrutura que impulsiona a operação de ponta a ponta — focamos em **alta disponibilidade**, **governança** e **escalabilidade**, garantindo que o chão de fábrica e a gestão estratégica estejam sempre sincronizados.
 
-> *"Soluções sob medida. Resultado incomparável."*
+> _"Soluções sob medida. Resultado incomparável."_
 
 <br clear="right"/>
 
