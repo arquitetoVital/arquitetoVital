@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&descAlignY=58&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=160&section=header&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://iaczridaljcdtnthoece.supabase.co/storage/v1/object/public/public-assets/geral/logo/logo.png" width="220" alt="Aços Vital Logo" />
 </p>
 
 <p align="center">
