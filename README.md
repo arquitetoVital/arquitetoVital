@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A8B2D8&center=true&vCenter=true&width=800&lines=Aços+Vital+%7C+Engenharia+e+TI;Arquitetura.+Automação.+Performance.;Inovação+em+Aço+e+Tecnologia+Industrial." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A8B2D8&center=true&vCenter=true&width=800&lines=A%C3%A7os+Vital+%7C+Engenharia+e+TI;Arquitetura.+Automa%C3%A7%C3%A3o.+Performance.;Inova%C3%A7%C3%A3o+em+A%C3%A7o+e+Tecnologia+Industrial." alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
       </blockquote>
     </td>
     <td width="40%" align="center" valign="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arquitetoVital&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=a8b2d8&bg_color=00000000" width="90%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arquitetoVital&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=a8b2d8&bg_color=0d1117" width="90%"/>
     </td>
   </tr>
 </table>
