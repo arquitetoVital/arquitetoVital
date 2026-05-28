@@ -1,11 +1,3 @@
-Puxa, erro meu! Olhando para a imagem `image_e5632f.png`, o problema foi exatamente a minha tentativa de forçar a cor de fundo com o parâmetro `&bg_color=0d1117` no card de "Top Langs".
-
-A API do `github-readme-stats` costuma conflitar quando tentamos sobrescrever a cor de fundo de um tema que já existe (como o `tokyonight` que você está usando). Isso fez com que o GitHub não conseguisse renderizar a imagem dentro da tabela.
-
-Removi o parâmetro problemático e deixei o link exatamente como estava no seu código original, mas mantendo a estrutura da tabela intacta como você pediu.
-
-Pode copiar este aqui, agora vai funcionar perfeitamente:
-
 ```html
 <p align="center">
   <img
