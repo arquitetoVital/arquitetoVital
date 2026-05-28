@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A8B2D8&center=true&vCenter=true&width=720&lines=Arquitetura.+Automa%C3%A7%C3%A3o.+Performance.;Inova%C3%A7%C3%A3o+em+A%C3%A7o+e+Tecnologia+Industrial.;Solu%C3%A7%C3%B5es+sob+medida.+Resultado+incompar%C3%A1vel." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=720&lines=Arquitetura.+Automa%C3%A7%C3%A3o.+Performance.;Inova%C3%A7%C3%A3o+em+A%C3%A7o+e+Tecnologia+Industrial.;Solu%C3%A7%C3%B5es+sob+medida.+Resultado+incompar%C3%A1vel." alt="Typing SVG" />
 </p>
 
 <br>
